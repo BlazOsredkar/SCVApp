@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Domov" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_urnik"
+        android:title="Urniki" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_malice"
+        android:title="Malice" />
+
+    <item
+        android:id="@+id/navigation_easistent"
+        android:icon="@drawable/ea"
+        android:title="Easistent" />
+
+    <item
+        android:id="@+id/navigation_nastavitve"
+        android:icon="@drawable/nastavitve"
+        android:title="Nastavitve" />
+
+</menu>

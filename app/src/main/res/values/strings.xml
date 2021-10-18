@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SCVApp</string>
+    <string name="title_home">Domov</string>
+    <string name="title_dashboard">Urnik</string>
+    <string name="title_notifications">Malice</string>
+
+</resources>
